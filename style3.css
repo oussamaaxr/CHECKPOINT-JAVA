@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(225, 76, 76);
+  }
+
+  h1 {
+    color: purple;
+  }
+
+  #counter {
+    font-size: 48px;
+    color: green;
+  }
+
+  button {
+    font-size: 24px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: lightgray;
+    border: 50px;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: gray;
+    
+  }
